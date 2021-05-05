@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iashaff
-- 👀 I’m interested in seing how I can create interesting and good looking stuff
+- 👀 I’m interested in seeing how I can create interesting and good looking stuff
 - 🌱 I’m currently learning JavaScript, CSS and HTML
 - 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me on twiter @IrinaShaff
