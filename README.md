@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iashaff
+- 👋 Hi, I’m Irina Shalgina
 - 👀 I’m interested in seeing how I can create interesting and good looking stuff
 - 🌱 I’m currently learning JavaScript, CSS and HTML
 - 💞️ I’m looking to collaborate on Web development
