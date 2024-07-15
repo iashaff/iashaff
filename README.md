@@ -4,7 +4,7 @@
 </div>
 
 ### About me
-- I'm currently learning **React**
+- I'm currently learning **React, TypeScript**
 - Reach me by [email](mailto:i@shalgina.ru)
 
 ### Languages and tools
